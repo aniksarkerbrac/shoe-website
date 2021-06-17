@@ -1,0 +1,33 @@
+.shoe-nav img{
+    width: 200px;
+}
+.bg-pink{
+    background-color: #FFF9F4;
+}
+.special-font{
+    font-family: 'Bebas Neue', cursive;
+}
+.bg-silver{
+    background-color: #F1F1F1;
+    border-radius: 15px;
+}
+.shoe-border{
+    border: 0;
+    border-radius: 15px;
+}
+.shoe-card-img img{
+    width: 100%;
+}
+@media (max-width: 688px) {
+    .content-reverse{
+        flex-direction: column-reverse;
+    }
+    .show-text-center{
+        text-align: center;
+    }
+    .shoe-card-img{
+        width: 60%;
+        position: relative;
+        left: 20%;
+    }
+}
