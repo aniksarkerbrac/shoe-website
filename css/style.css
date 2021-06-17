@@ -30,4 +30,8 @@
         position: relative;
         left: 20%;
     }
+    .new-arrival-card{
+        width: 70%;
+        padding-left: 0px;
+    }
 }
